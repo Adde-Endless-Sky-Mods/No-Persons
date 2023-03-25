@@ -1,5 +1,5 @@
 #	Disabled
-disable persons
+disable person
 	"Michael Zahniser"
 	"Cap'n Pester"
 	"Marauding Max"
